@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 31 11:22:17 SGT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\rams.DESKTOP-SLBNBGG\\AndroidStudioProjects\\MilestoKilometersConverter\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
