@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -104,7 +105,7 @@
 
     <TextView
         android:id="@+id/displayRes"
-        android:layout_width="53dp"
+        android:layout_width="71dp"
         android:layout_height="32dp"
         android:layout_marginTop="418dp"
         android:layout_marginBottom="282dp"

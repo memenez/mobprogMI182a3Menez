@@ -1,4 +1,4 @@
-#Wed Jul 31 11:11:16 SGT 2019
-base.0=C\:\\Users\\rams.DESKTOP-SLBNBGG\\AndroidStudioProjects\\MilestoKilometersConverter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Thu Aug 01 16:34:46 CST 2019
+base.0=C\:\\Users\\Michael\\Desktop\\mobprogMI182a3Menez\\MilestoKilometersConverter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
